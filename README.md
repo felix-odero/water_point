@@ -1,7 +1,3 @@
-python3 -m pip install requests flask
-
-run the application with: python3 water_point.py
-
 # WaterPoint Analyzer
 
 > Water point analysis script.
